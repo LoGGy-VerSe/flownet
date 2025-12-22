@@ -120,7 +120,7 @@ test_mode_not_activated_below_threshold ... ok
 test_multiple_dates_independence ... ok
 
 ----------------------------------------------------------------------
-Ran 13 tests in 0.001s
+Ran 14 tests in 0.001s
 
 OK
 ```
