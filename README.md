@@ -20,6 +20,9 @@ cd flownet
 
 # Run the main script
 python flownet.py
+
+# Run the example script to see different scenarios
+python example.py
 ```
 
 ## Usage
@@ -102,7 +105,13 @@ Run the test suite:
 python -m unittest test_flownet.py -v
 ```
 
-Expected output:
+For a comprehensive demonstration of all scenarios, run:
+
+```bash
+python example.py
+```
+
+Expected test output:
 ```
 test_activate_mode_with_insufficient_winnings ... ok
 test_activate_mode_with_sufficient_winnings ... ok
